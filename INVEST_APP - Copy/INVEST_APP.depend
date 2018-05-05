@@ -1,0 +1,95 @@
+# depslib dependency file v1.0
+1525184122 source:d:\tubes stf\tubes_invest\invest_app\main.cpp
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+	"parentList.h"
+	"relasiList.h"
+	"menu.h"
+	"childList.h"
+
+1525325136 source:d:\tubes stf\tubes_invest\invest_app\parentlist.cpp
+	"parentList.h"
+	<string.h>
+	<fstream>
+	<cstdlib>
+	<iomanip>
+
+1524927231 source:d:\tubes stf\tubes_invest\invest_app\childlist.cpp
+	"childList.h"
+
+1525183881 source:d:\tubes stf\tubes_invest\invest_app\relasilist.cpp
+	"relasiList.h"
+	<string.h>
+	<fstream>
+	<cstdlib>
+	<iomanip>
+
+1525144408 d:\tubes stf\tubes_invest\invest_app\parentlist.h
+	<iostream>
+
+1524927192 d:\tubes stf\tubes_invest\invest_app\childlist.h
+	<iostream>
+
+1525271597 d:\tubes stf\tubes_invest\invest_app\relasilist.h
+	"relasiList.h"
+	"childList.h"
+	"parentList.h"
+	<iostream>
+
+1525318529 d:\tubes stf\tubes_invest\invest_app\menu.h
+	"stdlib.h"
+	"conio.h"
+	"parentList.h"
+	"relasiList.h"
+	"childList.h"
+
+1525477794 source:d:\tubes stf\tubes_invest\invest_app - copy\childlist.cpp
+	"childList.h"
+
+1524927192 d:\tubes stf\tubes_invest\invest_app - copy\childlist.h
+	<iostream>
+
+1525478990 source:d:\tubes stf\tubes_invest\invest_app - copy\main.cpp
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+	"parentList.h"
+	"relasiList.h"
+	"menu.h"
+	"childList.h"
+
+1525144408 d:\tubes stf\tubes_invest\invest_app - copy\parentlist.h
+	<iostream>
+
+1525438863 d:\tubes stf\tubes_invest\invest_app - copy\relasilist.h
+	"relasiList.h"
+	"childList.h"
+	"parentList.h"
+	<iostream>
+
+1525481899 d:\tubes stf\tubes_invest\invest_app - copy\menu.h
+	"stdlib.h"
+	"conio.h"
+	<string.h>
+	<fstream>
+	<cstdlib>
+	<iomanip>
+	"parentList.h"
+	"relasiList.h"
+	"childList.h"
+
+1525325136 source:d:\tubes stf\tubes_invest\invest_app - copy\parentlist.cpp
+	"parentList.h"
+	<string.h>
+	<fstream>
+	<cstdlib>
+	<iomanip>
+
+1525481213 source:d:\tubes stf\tubes_invest\invest_app - copy\relasilist.cpp
+	"relasiList.h"
+	<string.h>
+	<fstream>
+	<cstdlib>
+	<iomanip>
+
